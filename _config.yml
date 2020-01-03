@@ -1,0 +1,8 @@
+title: Jamespjh.github.com
+description: I am a research software engineer
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
