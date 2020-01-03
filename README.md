@@ -1,6 +1,6 @@
-jamespjh.github.com
+Github Pages Blog
 ===================
 
 Github pages repo
 
-Renders to [jamespjh.github.com](jamespjh.github.com)
+Renders to [jamespjh.github.io](jamespjh.github.io)
